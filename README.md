@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/msuarez-?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
 
-[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/msuarez-/FdF)](https://github.com/JaeSeoKim/badge42)
+msuarez- 42 FdF Score: [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/msuarez-/FdF)](https://github.com/JaeSeoKim/badge42)
 
-[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/msuarez-/Fract'ol)](https://github.com/JaeSeoKim/badge42)
+msuarez- 42 Fract'ol Score: [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/msuarez-/Fract'ol)](https://github.com/JaeSeoKim/badge42)
 
-[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/msuarez-/Wolf3d)](https://github.com/JaeSeoKim/badge42)
+msuarez- 42 Wolf3d Score: [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/msuarez-/Wolf3d)](https://github.com/JaeSeoKim/badge42)
