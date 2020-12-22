@@ -1,4 +1,4 @@
-### - Welcome! (if this page shows errors, please refresh it!) 👋
+### - Welcome! 👋 (if this page shows errors, please refresh it!)
 
 <!--
 **MuSuareZ/MuSuareZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
