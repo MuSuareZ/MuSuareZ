@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/msuarez-?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/msuarez-?cursus=42)](https://github.com/JaeSeoKim/badge42)
 
 ### - Graphical Projects
 
